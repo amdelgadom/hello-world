@@ -1,1 +1,3 @@
 Text lo learn git
+New line to commit
+Trying to commit...
